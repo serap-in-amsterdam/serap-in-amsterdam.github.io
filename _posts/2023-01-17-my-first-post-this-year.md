@@ -5,7 +5,6 @@ subtitle: quick summary
 categories: Blog
 tags: [Blog, Travel, Food, Website]
 ---
-## Where have I traveled so far?
 
 1. Turkey
 2. Israel
