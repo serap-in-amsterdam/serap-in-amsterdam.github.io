@@ -3,7 +3,7 @@ layout: post
 title: Where have I traveled so far?
 subtitle: quick summary
 categories: Blog
-tags: [Blog, Travel, Food, Website]
+tags: [Github, blog, travel, food, website]
 ---
 
 1. Turkey
